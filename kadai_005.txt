@@ -1,0 +1,13 @@
+#　台形の情報
+Upper_Base = 10
+Lower_Base = 20
+Height = 5
+
+# 台形の面積
+Area = (Upper_Base + Lower_Base) * Height / 2
+
+# 結果の出力
+print("台形の面積は：", Area,"平方センチメートル")
+
+台形の面積は： 75.0 平方センチメートル
+
